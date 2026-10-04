@@ -1,0 +1,6 @@
+# One airport per line (ICAO id). Lines starting with # are ignored.
+# Pilots subscribe in ntfy to <NTFY_PREFIX>-<ICAO> for each airport they want.
+KDEN
+KAPA
+KBJC
+KCOS
